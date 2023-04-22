@@ -267,13 +267,18 @@ body{
     color:darkgray;
     font-family: 'Courier New', Courier, monospace;
 }
+.right a{
+    text-decoration: none;
+}
 .subscribe{
     text-transform: capitalize;
     font-family: Arial, Helvetica, sans-serif;
     background-color: red;
+    color:#fff;
     text-align: center;
     justify-content: center;
     padding: 4px 10px;
+    
     border-radius: 10px;
 }
 
