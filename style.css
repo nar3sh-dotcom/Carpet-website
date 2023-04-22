@@ -65,6 +65,8 @@ body{
 }
 #check {display: none;}
 @media(max-width: 610px){
+    
+    
     .menu {
         flex-direction: column;
         align-items: center;
@@ -280,6 +282,50 @@ body{
     padding: 4px 10px;
     
     border-radius: 10px;
+}
+footer{
+    display: flex;
+    flex-direction: column;
+    padding:15px 8px;
+    
+}
+footer ul li a{
+    color:rgb(202, 194, 194);
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2.1px;
+}
+footer ul li a:hover{
+    color:#fff;
+    
+}
+footer ul li{
+    padding:3px 0;
+}
+section{
+    padding:10px 0;
+
+}
+.ab h2{
+    color:yellow;
+    font-size:2.5rem
+}
+.color{
+    color:red;
+    font-size:2.2rem;
+}
+.socials li{
+    list-style-type: none;
+}
+.socials ul{
+    display:flex;
+    
+}
+.socials ul li{
+    padding:4px 15px;
+}
+footer p{
+    letter-spacing: 2.5px;
 }
 
 
