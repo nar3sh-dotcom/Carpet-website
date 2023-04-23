@@ -395,7 +395,7 @@ section{
         padding:0px 15px;
     }
     .left h2{
-        font-size:3rem
+        font-size:3rem;
     }
     .right input{
         height:50px;
@@ -430,12 +430,16 @@ section{
        
     }
     .content img{
-       
+       height:500px;
         
     }
     .content p{
         color:#292828;
         float:right;
+    
+    }
+    .rugs{
+        
     }
     
     
